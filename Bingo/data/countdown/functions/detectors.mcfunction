@@ -1,0 +1,9 @@
+function countdown:itemdetectors/red
+function countdown:itemdetectors/gold
+function countdown:itemdetectors/aqua
+function countdown:itemdetectors/white
+function countdown:itemdetectors/blue
+function countdown:itemdetectors/purple
+function countdown:itemdetectors/yellow
+function countdown:itemdetectors/black
+function countdown:itemdetectors/green

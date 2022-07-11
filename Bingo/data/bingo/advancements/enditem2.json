@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Bingo"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "target": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "bingo:fermented_spider_eye"
+}

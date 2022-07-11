@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "piston"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:piston"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "copperblock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "bingo:b1"
+}
